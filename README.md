@@ -66,15 +66,16 @@ Desde la raíz del proyecto, corre el siguiente comando:
 ```
 python main.py
 ```
-
-✨ Próximas mejoras (por implementar)
+---
+## ✨ Próximas mejoras (por implementar)
  - Estilos y diseño más atractivo (fuentes, colores, disposición).
  - Animaciones al cambiar de pantalla.
  - Sonidos personalizados al terminar la cocción.
  - Empaquetar como aplicación ejecutable (.exe o .app).
 
-📬 Contribuciones
-Este proyecto es educativo y experimental. Si deseas aportar mejoras, sugerencias o correcciones, ¡bienvenido!
+## 📬 Contribuciones
+
+Este proyecto es educativo y experimental. Si deseas aportar mejoras, sugerencias o correcciones, hablemos: https://www.linkedin.com/in/junisse-campos-aa9038198/
 
 ---
 🧑‍💻 Desarrollado por Junisse Campos — 2025
