@@ -34,7 +34,7 @@
 
 ### 1. Requisitos
 
-- Python 3.x instalado
+- Python 3.6 instalado (también lo probe con python 3.8 y funciona)
 - No requiere librerías externas, solo `tkinter` (incluido con Python)
 - Proximamente incluira librerias externas.
 
